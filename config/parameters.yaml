@@ -1,0 +1,6 @@
+# app/config/parameters.yaml
+parameters:
+    database_host:     localhost
+    database_name:     weather_api
+    database_user:     postgres
+    database_password: "mtn_pg#96!"
